@@ -1,6 +1,8 @@
 # Webstudy_fullstack
 
 -ing : 2020 - 07 - 27
+2020.07.28 Firebase + react 연동완료 ! 
+* * *
  #### 백엔드개발자 : 이현종 :sparkles:
  #### 프론트엔드개발자 : 강병헌 :sparkles:
  * * *
