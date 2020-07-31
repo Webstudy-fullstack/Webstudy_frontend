@@ -2,7 +2,9 @@
 
 -ing : 2020 - 07 - 27
 2020.07.28 Firebase + react 연동완료 ! 
+
 2020.07.28 Github + Slack 연동수정 ! 
+
 2020.07.31 Router 구현중.
 * * *
  #### 백엔드개발자 : 이현종 :sparkles:
